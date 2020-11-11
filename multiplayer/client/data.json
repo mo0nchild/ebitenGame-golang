@@ -1,0 +1,15 @@
+{
+ "type": "init",
+ "data": {
+  "player_id": "11f5aaee-d02c-444b-95d5-070dfa440751",
+  "units": {
+   "id": "11f5aaee-d02c-444b-95d5-070dfa440751",
+   "posx": 320,
+   "posy": 240,
+   "dir": 0,
+   "state": "idle",
+   "horiz_dir": 4,
+   "frame": 0
+  }
+ }
+}
